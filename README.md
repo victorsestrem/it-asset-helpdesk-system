@@ -23,11 +23,11 @@ Laptops, phones and accessories were handed out with no record of who had what, 
 
 ## Module 2 — Help desk
 
-- **Lightweight requester login** (first access and password reset by e-mail) and a **"My tickets" portal**.
+- **Lightweight requester login** (first access and password reset by email) and a **"My tickets" portal**.
 - **Calculated priority**, **SLA in business hours**, protocol numbers and **automatic assignment**.
 - IT operations panel with filters and counters, append-only status log, internal vs. public notes, **macros**, tags, **time tracking**, reassignment.
 - **Systems registry** with change log and a **public status page**, **knowledge base** (public/internal) and a **recurrence detector** by device, system or category.
-- E-mail notification queue (SMTP with retry) and **event-level audit log** for every change.
+- Email notification queue (SMTP with retry) and **event-level audit log** for every change.
 
 ## Architecture
 

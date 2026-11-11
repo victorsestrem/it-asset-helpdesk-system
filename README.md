@@ -1,4 +1,4 @@
-# IT Asset Management & Help Desk System — Case Study
+# IT Asset Management & Help Desk System: Case Study
 
 > Internal IT system for **Vale Verde Festas** with two modules in one app: **equipment lifecycle** and **help desk tickets with SLA**.
 > **Source code is private.** This repository documents the project; a live walkthrough is available on request.
@@ -13,7 +13,7 @@
 
 Laptops, phones and accessories were handed out with no record of who had what, in what condition, or when they had last been checked. IT requests arrived over WhatsApp with no priority, no SLA and no history.
 
-## Module 1 — Equipment
+## Module 1: Equipment
 
 - Employees, areas, equipment types and accessories; **automatic asset tags** (`EQP-YEAR-NNNN`).
 - **Hand-over and return** with accessories checklist and initial condition, **responsibility term in PDF** with digital acceptance, and a full **timeline** per device.
@@ -21,7 +21,7 @@ Laptops, phones and accessories were handed out with no record of who had what, 
 - **Damage and maintenance** lifecycle with costs, **linear depreciation** and a **dashboard** with KPIs and charts.
 - **Excel importer** with row-by-row validation and **global search** (PostgreSQL `pg_trgm`, Ctrl+K).
 
-## Module 2 — Help desk
+## Module 2: Help desk
 
 - **Lightweight requester login** (first access and password reset by email) and a **"My tickets" portal**.
 - **Calculated priority**, **SLA in business hours**, protocol numbers and **automatic assignment**.
